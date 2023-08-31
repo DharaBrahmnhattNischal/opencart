@@ -8,6 +8,8 @@ import pageObjects.LoginPage;
 import pageObjects.MyAccountPage;
 import testBase.BaseClass;
 
+
+//modified
 public class Tc_002_LoginTest extends BaseClass {
 
 	@Test(groups= {"sanity","master"})
